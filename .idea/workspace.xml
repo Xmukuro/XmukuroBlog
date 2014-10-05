@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/php/feed.php" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75e3b3d2-93bc-4bb3-8549-56575c45d715" name="Default" comment="" />
+    <ignored path="sitephoto.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sitephoto" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="profil.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profil.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="7" selection-start="673" selection-end="673" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="646">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/processing/setup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="97" selection-start="1409" selection-end="1409" vertical-scroll-proportion="-24.192308" vertical-offset="51" max-vertical-offset="1581">
+              <folding>
+                <marker date="1412435212978" expanded="true" signature="849:1536" placeholder="CREATE TABLE..IF..." />
+                <marker date="1412435212978" expanded="true" signature="1643:2348" placeholder="CREATE TABLE..IF..." />
+                <marker date="1412435212978" expanded="true" signature="2457:3173" placeholder="CREATE TABLE..IF..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/panel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="12" selection-start="726" selection-end="726" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="561">
+              <folding>
+                <marker date="1412437094579" expanded="true" signature="367:501" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feed.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/feed.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="25" selection-start="466" selection-end="466" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="714">
+              <folding>
+                <marker date="1411932463544" expanded="true" signature="333:401" placeholder="SELECT artic..article..." />
+                <marker date="1411932463544" expanded="true" signature="582:638" placeholder="SELECT usern..users..." />
+                <marker date="1411932463544" expanded="false" signature="712:729" placeholder="..." />
+                <marker date="1411932463544" expanded="true" signature="730:1345" placeholder="..." />
+                <marker date="1411932463544" expanded="true" signature="782:1317" placeholder="..." />
+                <marker date="1411932463544" expanded="true" signature="841:995" placeholder="..." />
+                <marker date="1411932463544" expanded="false" signature="948:961" placeholder="..." />
+                <marker date="1411932463544" expanded="true" signature="1048:1208" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/article.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="71" selection-start="1374" selection-end="1374" vertical-scroll-proportion="-24.038462" vertical-offset="21" max-vertical-offset="901">
+              <folding>
+                <marker date="1411709313136" expanded="true" signature="528:594" placeholder="SELECT artic..article..." />
+                <marker date="1411709313136" expanded="true" signature="930:1002" placeholder="SELECT artic..article..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="121" column="18" selection-start="7182" selection-end="7182" vertical-scroll-proportion="0.1359338" vertical-offset="1942" max-vertical-offset="2788">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="55" selection-start="417" selection-end="417" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="459">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/processing/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="11" selection-start="255" selection-end="255" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="272">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/processing/post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="29" selection-start="1139" selection-end="1139" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="612">
+              <folding>
+                <marker date="1412433700491" expanded="true" signature="892:1067" placeholder="INSERT INTO ..." />
+                <marker date="1412433700491" expanded="true" signature="964:1022" placeholder="SELECT useri..users..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actu.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/actu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="39" selection-start="304" selection-end="304" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/php/login.php" />
+        <option value="$PROJECT_DIR$/php/separator.php" />
+        <option value="$PROJECT_DIR$/php/processing/GetPhotos.php" />
+        <option value="$PROJECT_DIR$/css/animations.css" />
+        <option value="$PROJECT_DIR$/js/simpleSlider.js" />
+        <option value="$PROJECT_DIR$/php/admin.php" />
+        <option value="$PROJECT_DIR$/php/index.php" />
+        <option value="$PROJECT_DIR$/php/processing/GetFiles.php" />
+        <option value="$PROJECT_DIR$/php/navbar.php" />
+        <option value="$PROJECT_DIR$/js/docs.min.js" />
+        <option value="$PROJECT_DIR$/css/docs.min.css" />
+        <option value="$PROJECT_DIR$/css/docs.css" />
+        <option value="$PROJECT_DIR$/php/processing/getPictures.php" />
+        <option value="$PROJECT_DIR$/php/processing/getDirs.php" />
+        <option value="$PROJECT_DIR$/php/navbar2.php" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/php/slider.php" />
+        <option value="$PROJECT_DIR$/php/processing/security.php" />
+        <option value="$PROJECT_DIR$/php/article.php" />
+        <option value="$PROJECT_DIR$/php/infos.php" />
+        <option value="$PROJECT_DIR$/php/footer.php" />
+        <option value="$PROJECT_DIR$/blog.php" />
+        <option value="$PROJECT_DIR$/myblog.php" />
+        <option value="$PROJECT_DIR$/php/connexion.php" />
+        <option value="$PROJECT_DIR$/php/config.php" />
+        <option value="$PROJECT_DIR$/support.php" />
+        <option value="$PROJECT_DIR$/php/contact.php" />
+        <option value="$PROJECT_DIR$/php/blog.php" />
+        <option value="$PROJECT_DIR$/php/inscription.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/php/myblog.php" />
+        <option value="$PROJECT_DIR$/php/profil.php" />
+        <option value="$PROJECT_DIR$/php/TEMParticleTEMP.php" />
+        <option value="$PROJECT_DIR$/article.php" />
+        <option value="$PROJECT_DIR$/php/head.php" />
+        <option value="$PROJECT_DIR$/php/home.php" />
+        <option value="$PROJECT_DIR$/php/feed.php" />
+        <option value="$PROJECT_DIR$/actu.php" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/php/header.php" />
+        <option value="$PROJECT_DIR$/profil.php" />
+        <option value="$PROJECT_DIR$/js/custom.js" />
+        <option value="$PROJECT_DIR$/php/processing/post.php" />
+        <option value="$PROJECT_DIR$/php/processing/setup.php" />
+        <option value="$PROJECT_DIR$/php/processing/database.php" />
+        <option value="$PROJECT_DIR$/php/panel.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Php in wamp" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="37" />
+    <option name="width" value="912" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sitephoto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sitephoto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sitephoto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sitephoto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="database.main" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sitephoto" />
+    <property name="SearchEverywhereHistory" value="data" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\blog\php" />
+      <recent name="G:\blog\css" />
+      <recent name="C:\Users\Teckila-Hackée\Desktop" />
+      <recent name="C:\Dev\Servers\wamp\www\sitephoto\php\processing" />
+      <recent name="C:\Dev\Servers\wamp\www\sitephoto\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dev\Servers\wamp\www\sitephoto\php\processing" />
+      <recent name="C:\Dev\Servers\wamp\www\sitephoto\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75e3b3d2-93bc-4bb3-8549-56575c45d715" name="Default" comment="" />
+      <created>1404306045178</created>
+      <updated>1404306045178</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="37" y="0" width="912" height="1040" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23995535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947367" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947367" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32842106" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="36" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="119">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/perfect-scrollbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="14" selection-start="51" selection-end="51" vertical-scroll-proportion="0.018398268" vertical-offset="0" max-vertical-offset="2227" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/perfect-scrollbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="352" column="31" selection-start="12631" selection-end="12635" vertical-scroll-proportion="1.1280624" vertical-offset="4971" max-vertical-offset="11934" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="98447" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animations.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="198" column="22" selection-start="4044" selection-end="4044" vertical-scroll-proportion="0.43202764" vertical-offset="2991" max-vertical-offset="3859">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/processing/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="898" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="200" column="23" selection-start="4812" selection-end="4812" vertical-scroll-proportion="0.0" vertical-offset="7304" max-vertical-offset="8228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/docs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="1" selection-start="1257" selection-end="1257" vertical-scroll-proportion="0.0" vertical-offset="413" max-vertical-offset="2108" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_superglobals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="0" selection-start="1976" selection-end="1993" vertical-scroll-proportion="0.0" vertical-offset="815" max-vertical-offset="3944" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/support.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="42" selection-start="416" selection-end="416" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/6fdf13f8-6e51-4132-b481-73a0c299518b">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>6fdf13f8-6e51-4132-b481-73a0c299518b</OriginalElement>
+          <nodes>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.columns_priv</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_statements_history_long</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.socket_instances</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_BUFFER_POOL_STATS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_statements_history</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.host_cache</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.objects_summary_global_by_type</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.time_zone_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.GLOBAL_VARIABLES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_FT_INDEX_TABLE</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_CMP_RESET</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:neoblog.neoblog_comments</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:neoblog.neoblog_options</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.accounts</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_FT_DEFAULT_STOPWORD</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.help_relation</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_stages_history</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.TABLESPACES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.help_keyword</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.table_io_waits_summary_by_table</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_statements_summary_by_user_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_CMPMEM_RESET</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.ROUTINES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.table_lock_waits_summary_by_table</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.CHARACTER_SETS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.USER_PRIVILEGES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.event</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:craftblog.users</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_waits_current</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.session_connect_attrs</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.PARTITIONS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_waits_summary_global_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_stages_summary_by_account_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.ENGINES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:neoblog.neoblog_links</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.socket_summary_by_instance</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.setup_objects</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.proc</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_SYS_TABLESPACES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_FT_DELETED</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.FILES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.REFERENTIAL_CONSTRAINTS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.file_summary_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:neoblog.neoblog_terms</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_statements_summary_global_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_SYS_INDEXES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.time_zone_transition_type</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:craftblog.article</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:neoblog.neoblog_users</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:neoblog.neoblog_posts</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_SYS_FIELDS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_waits_summary_by_host_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_TRX</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_FT_INDEX_CACHE</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.performance_timers</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_CMP</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.TABLES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.EVENTS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.setup_timers</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.setup_actors</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:neoblog.neoblog_usermeta</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_stages_summary_by_host_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:neoblog.neoblog_commentmeta</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.TABLE_CONSTRAINTS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_BUFFER_PAGE</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_statements_summary_by_host_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.time_zone_leap_second</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.temptab</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.tables_priv</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_stages_current</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.PLUGINS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.COLLATIONS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_statements_summary_by_thread_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.table_io_waits_summary_by_index_usage</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.SESSION_VARIABLES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:neoblog.neoblog_term_taxonomy</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.GLOBAL_STATUS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.rwlock_instances</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_statements_summary_by_account_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_stages_history_long</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.general_log</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.slow_log</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_waits_summary_by_instance</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.TABLE_PRIVILEGES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.innodb_index_stats</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_FT_BEING_DELETED</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_SYS_TABLESTATS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_SYS_TABLES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.file_instances</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.setup_consumers</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.innodb_table_stats</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.hosts</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_statements_summary_by_digest</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_waits_history_long</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.mutex_instances</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.PROCESSLIST</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.SCHEMA_PRIVILEGES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.OPTIMIZER_TRACE</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_LOCKS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.COLUMNS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.db</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_BUFFER_PAGE_LRU</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.COLUMN_PRIVILEGES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.PROFILING</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_SYS_FOREIGN_COLS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.setup_instruments</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_stages_summary_by_user_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.func</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_stages_summary_by_thread_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.slave_master_info</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_CMPMEM</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.ndb_binlog_index</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_waits_summary_by_thread_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.PARAMETERS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.TRIGGERS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_LOCK_WAITS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.servers</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_waits_summary_by_account_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_stages_summary_global_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.VIEWS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:neoblog.neoblog_term_relationships</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.help_topic</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.COLLATION_CHARACTER_SET_APPLICABILITY</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.file_summary_by_instance</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.slave_relay_log_info</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.help_category</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_FT_CONFIG</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.cond_instances</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_waits_history</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.time_zone_transition</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_METRICS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_SYS_FOREIGN</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_SYS_DATAFILES</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.STATISTICS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_CMP_PER_INDEX_RESET</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_statements_current</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_SYS_COLUMNS</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.events_waits_summary_by_user_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.proxies_priv</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.plugin</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.threads</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:neoblog.neoblog_duplicator_packages</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.time_zone</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.INNODB_CMP_PER_INDEX</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.users</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:neoblog.neoblog_postmeta</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.socket_summary_by_event_name</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.KEY_COLUMN_USAGE</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.slave_worker_info</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.SCHEMATA</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.user</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:mysql.procs_priv</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:performance_schema.session_account_connect_attrs</node>
+            <node x="" y="">6fdf13f8-6e51-4132-b481-73a0c299518b.table:information_schema.SESSION_STATUS</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.15356959424756036" x="2811.0" y="2910.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/inscription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="71" selection-start="2281" selection-end="2281" vertical-scroll-proportion="-30.076923" vertical-offset="0" max-vertical-offset="1037" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/infos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="6" selection-start="1833" selection-end="1833" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="32" selection-start="264" selection-end="264" vertical-scroll-proportion="0.11358575" vertical-offset="0" max-vertical-offset="898" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/connexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="918" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="859" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="0" selection-end="1156" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="599" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/TEMParticleTEMP.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="65" selection-start="358" selection-end="358" vertical-scroll-proportion="0.11358575" vertical-offset="0" max-vertical-offset="898" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="1" selection-start="1169" selection-end="1169" vertical-scroll-proportion="0.79761904" vertical-offset="113" max-vertical-offset="1802" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="106" selection-start="1270" selection-end="1270" vertical-scroll-proportion="0.44994247" vertical-offset="0" max-vertical-offset="869" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="3" selection-start="1896" selection-end="1896" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="55" selection-start="417" selection-end="417" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="7" selection-start="673" selection-end="673" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/feed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="25" selection-start="466" selection-end="466" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="714">
+          <folding>
+            <marker date="1411932463544" expanded="true" signature="333:401" placeholder="SELECT artic..article..." />
+            <marker date="1411932463544" expanded="true" signature="582:638" placeholder="SELECT usern..users..." />
+            <marker date="1411932463544" expanded="false" signature="712:729" placeholder="..." />
+            <marker date="1411932463544" expanded="true" signature="730:1345" placeholder="..." />
+            <marker date="1411932463544" expanded="true" signature="782:1317" placeholder="..." />
+            <marker date="1411932463544" expanded="true" signature="841:995" placeholder="..." />
+            <marker date="1411932463544" expanded="false" signature="948:961" placeholder="..." />
+            <marker date="1411932463544" expanded="true" signature="1048:1208" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/panel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="12" selection-start="726" selection-end="726" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="561">
+          <folding>
+            <marker date="1412437094579" expanded="true" signature="367:501" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/processing/setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="97" selection-start="1409" selection-end="1409" vertical-scroll-proportion="-24.192308" vertical-offset="51" max-vertical-offset="1581">
+          <folding>
+            <marker date="1412435212978" expanded="true" signature="849:1536" placeholder="CREATE TABLE..IF..." />
+            <marker date="1412435212978" expanded="true" signature="1643:2348" placeholder="CREATE TABLE..IF..." />
+            <marker date="1412435212978" expanded="true" signature="2457:3173" placeholder="CREATE TABLE..IF..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/processing/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="255" selection-end="255" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/processing/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="29" selection-start="1139" selection-end="1139" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="612">
+          <folding>
+            <marker date="1412433700491" expanded="true" signature="892:1067" placeholder="INSERT INTO ..." />
+            <marker date="1412433700491" expanded="true" signature="964:1022" placeholder="SELECT useri..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="39" selection-start="304" selection-end="304" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="71" selection-start="1374" selection-end="1374" vertical-scroll-proportion="-24.038462" vertical-offset="21" max-vertical-offset="901">
+          <folding>
+            <marker date="1411709313136" expanded="true" signature="528:594" placeholder="SELECT artic..article..." />
+            <marker date="1411709313136" expanded="true" signature="930:1002" placeholder="SELECT artic..article..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="18" selection-start="7182" selection-end="7182" vertical-scroll-proportion="0.1359338" vertical-offset="1942" max-vertical-offset="2788">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

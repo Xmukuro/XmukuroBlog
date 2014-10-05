@@ -1,0 +1,101 @@
+html body
+{
+    margin:0 0 0 0;
+    padding:0 0 0 0;
+    height: 100%;
+    width:100%;
+    display: table;
+    color:black;
+    /*line-height: 20px;*/
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+    background: url("../img/matrix.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+    /*padding bottom for footer overlap*/
+    padding-bottom: 50px;
+
+}
+header
+{}
+/* -------------------elements--------------------*/
+a, a:hover
+{
+    text-decoration: none;
+    color: inherit;
+}
+
+.jumbotron
+{
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 30px;
+    -moz-border-radius:20px 0;
+    -webkit-border-radius:20px 0;
+    border-radius:20px 0;
+}
+.navbar-search
+{
+color: #ffffff;
+background-color: #515151;
+border-color: #111111;
+-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1), 0 1px 0 rgba(255,255,255,.15);
+-moz-box-shadow: inset 0 1px 2px rgba(0,0,0,.1), 0 1px 0 rgba(255,255,255,.15);
+box-shadow: inset 0 1px 2px rgba(0,0,0,.1), 0 1px 0 rgba(255,255,255,.15);
+-webkit-transition: none;
+-moz-transition: none;
+-o-transition: none;
+transition: none;
+}
+/*-------------------content---------------------*/
+
+main
+{
+    padding: 10px 10px 10px 10px;
+}
+
+.center
+{
+    display: table;
+    margin: 0 auto;
+}
+
+/*-----------------------articles--------------------*/
+.article
+{
+    position: relative;
+    background-color:#E4EFFF;
+    border:1px solid #9FC6FF;
+    padding:5px;
+    margin-top: 10px;
+    font-size: 20px;
+    /*arrondir les coins en haut à gauche et en bas à droite*/
+    -moz-border-radius:10px 0;
+    -webkit-border-radius:10px 0;
+    border-radius:10px 0;
+}
+.media-author
+{
+    position: absolute;
+    bottom: 0;
+    right:0;
+}
+
+footer
+{
+    display: table-row;
+}
+
+.container1
+{
+    -moz-border-radius:20px 0;
+    -webkit-border-radius:20px 0;
+    border-radius:20px 0;
+}
+
+.textwarning1
+{
+    font-size: 35px;
+}

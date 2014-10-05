@@ -1,0 +1,119 @@
+.bs-docs-sidebar.affix
+{
+     position: static;
+}
+
+@media (min-width:768px)
+{
+    .bs-docs-sidebar
+    {
+        padding-left: 20px;
+        border-right: 1px solid #adadad;
+    }
+}
+
+.bs-docs-sidenav
+{
+     margin-top: 20px;
+     margin-bottom: 20px;
+}
+
+/* tout les li */
+.bs-docs-sidebar .nav>li>a
+{
+    display: block;
+    padding: 4px 20px;
+    font-size: 13px;
+    font-weight: bold;
+    color: #999;
+}
+
+/* tout les li en :hover */
+.bs-docs-sidebar .nav>li>a:hover, .bs-docs-sidebar .nav>li>a:focus
+{
+    padding-left: 22px;
+    text-decoration: none;
+    background-color: #d6dde1;
+    /*border-left: 1px solid #563d7c;*/
+    -webkit-transition: background-color 700ms linear;
+    -moz-transition: background-color 700ms linear;
+    -o-transition: background-color 700ms linear;
+    -ms-transition: background-color 700ms linear;
+    transition: background-color 700ms linear;
+}
+
+/* tout les li en active */
+.bs-docs-sidebar .nav>.active>a, .bs-docs-sidebar .nav>.active:hover>a, .bs-docs-sidebar .nav>.active:focus>a
+{
+    padding-left: 18px;
+    background-color: transparent;
+    border-left: 1px solid #cc89b4;
+}
+
+/* les sous ul */
+.bs-docs-sidebar .nav .nav
+{
+    padding-bottom: 10px;
+}
+
+/* les li des sous ul */
+.bs-docs-sidebar .nav .nav>li>a
+{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 30px;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+/* les li des sous ul en hover */
+.bs-docs-sidebar .nav .nav>li>a:hover, .bs-docs-sidebar .nav .nav>li>a:focus
+{
+    padding-left: 29px;
+
+}
+/* les li des sous ul en active */
+.bs-docs-sidebar .nav .nav>.active>a, .bs-docs-sidebar .nav .nav>.active:hover>a, .bs-docs-sidebar .nav .nav>.active:focus>a
+{
+    padding-left: 28px;
+    font-weight: bold;
+    color: #cc89b4;
+}
+
+@media (min-width:992px)
+{
+    .bs-docs-sidebar .nav>.active>ul
+    {
+        display: block;
+    }
+
+    .bs-docs-sidebar.affix, .bs-docs-sidebar.affix-bottom
+    {
+            width: 213px;
+    }
+
+    .bs-docs-sidebar.affix
+    {
+        position: fixed;
+        top: 20px;
+    }
+
+    .bs-docs-sidebar.affix-bottom
+    {
+        position: absolute;
+    }
+
+    .bs-docs-sidebar.affix-bottom .bs-docs-sidenav, .bs-docs-sidebar.affix .bs-docs-sidenav
+    {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}
+
+@media (min-width:1200px)
+{
+    .bs-docs-sidebar.affix-bottom, .bs-docs-sidebar.affix
+    {
+        width: 263px;
+    }
+}
