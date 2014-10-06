@@ -8,7 +8,7 @@
 
         {
             echo    '<h1>Nouvel article -- <span id="articleNotif"></span></h1>';
-            echo    '<input class="form-control input-lg" type="text" placeholder="Titre de L\'article"> ';
+            echo    '<input id="articleTitle" class="form-control input-lg" type="text" placeholder="Titre de L\'article"> ';
             echo    "
                     <form method='post' action=''>
                         <textarea id='articleEditor' name='articleEditor' rows='10' cols='80'></textarea>
@@ -22,7 +22,7 @@
         }
         else
         {
-            //param inconnu donné a la page;
+            //action est vide
         }
     }
 ?>
