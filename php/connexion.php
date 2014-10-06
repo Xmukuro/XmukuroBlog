@@ -3,46 +3,38 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Fermer</span></button>
                 <h4 class="modal-title" id="myModalLabel">Connectez-Vous</h4>
             </div>
             <div class="modal-body">
 
                 <form class="form-horizontal" role="form">
+
                     <div class="form-group">
-                        <label for="email" class="col-sm-2 control-label">Email</label>
-                        <div class="col-sm-10">
-                            <input type="email" class="form-control" id="email" placeholder="Email">
+                        <label for="email" class="col-sm-3 control-label">Pseudo ou email</label>
+                        <div class="col-sm-9">
+                            <input name="userlogin" type="text" class="form-control" placeholder="Pseudo ou email">
                         </div>
                     </div>
 
                     <div class="form-group">
-                        <label for="pass" class="col-sm-2 control-label">Password</label>
-                        <div class="col-sm-10">
-                            <input type="password" class="form-control" id="pass" placeholder="Password">
+                        <label for="pass" class="col-sm-3 control-label">Password</label>
+                        <div class="col-sm-9">
+                            <input name="userpass" type="password" class="form-control" placeholder="Password">
                         </div>
                     </div>
 
-                    <div class="form-group">
-                        <div class="col-sm-offset-2 col-sm-10">
-                            <div class="checkbox">
-                                <label>
-                                    <input type="checkbox"> Remember me
-                                </label>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="form-group">
-                        <div class="col-sm-offset-2 col-sm-10">
-                            <button type="submit" class="btn btn-default">Sign in</button>
-                        </div>
-                    </div>
                 </form>
 
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+                <div class="col-sm-3">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
+                </div>
+                <div class="col-sm-9">
+                    <button type="submit" class="btn btn-primary btn-default">Connection !</button>
+                </div>
             </div>
         </div>
     </div>
