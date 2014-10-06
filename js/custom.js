@@ -19,14 +19,15 @@ tinymce.init({
                                     var Notifzone =  $("#articleNotif");
                                     var saved = 'sauvegardé';
                                     var preview = $('#reponse');
+                                    var articleTitle = $('#articleTitle').val();
 
                                     // ICI modifier les données envoyées a la page post.php !
-                                    var posting = $.post("./php/processing/post.php",{articleauthor:"Admin",article:tinymce.activeEditor.getContent(),articletitle:"titre de l'article",articlesince:"00/00/0000",action:"newarticle"},function(data){console.log("Post data sent.")});
+                                    var posting = $.post("./php/processing/post.php",{articleauthor:"Admin",article:tinymce.activeEditor.getContent(),articletitle:articleTitle,articlesince:"00/00/0000",action:"newarticle"},function(data){console.log("Post data sent.")});
                                     posting.done(function(data)
                                                 {
                                                     Notifzone.empty().append(saved).slideUp(0); //cacher la zone sauvegardé instant
-                                                    Notifzone.slideDown(500);   //afficher smooth la zone sauvegardé
-                                                    setTimeout(function(){Notifzone.slideUp(500);} , 2500); //cacher après 2500 la zone sauvegardé
+                                                    Notifzone.slideDown(500);   //afficher smooth la zone 'sauvegardé'
+                                                    setTimeout(function(){Notifzone.slideUp(500);} , 2500); //cacher après 2500ms la zone 'sauvegardé'
                                                     preview.empty().append(data);
 
                                                 });
