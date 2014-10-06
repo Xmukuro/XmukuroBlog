@@ -13,7 +13,7 @@ echo '<pre>';
             echo $_POST['articleauthor'];//DEBUG
             echo $_POST['articlesince']; //DEBUG
 
-            $article        = htmlspecialchars($_POST['article']      , ENT_QUOTES);
+            $article        = preg_replace('~<\s*\bscript\b[^>]*>(.*?)<\s*\/\s*script\s*>~is', '', $_POST['article'] );
             $articletitle   = htmlspecialchars($_POST['articletitle'] , ENT_QUOTES);
             $articleauthor  = htmlspecialchars($_POST['articleauthor'], ENT_QUOTES);
             $articlesince   = htmlspecialchars($_POST['articlesince'] , ENT_QUOTES);
