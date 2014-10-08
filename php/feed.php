@@ -1,5 +1,5 @@
 <?php
-include_once('./php/processing/database.php');
+require_once('./php/processing/database.php');
 
 if(isset($craftblog))
 {
