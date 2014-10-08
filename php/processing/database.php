@@ -1,10 +1,9 @@
 <?php
-$craftblog = new mysqli("localhost", "root", "", "craftblog");
-$craftblog->select_db('craftblog');
-/* Vérification de la connexion */
-if ($craftblog->connect_errno)
-{
-    printf("Échec de la connexion : %s\n", $craftblog->connect_error);
-    exit();
-}
+$dsn = 'mysql:host=localhost;dbname=craftblog;charset=UTF8';
+$username = 'root';
+$passwd = 'toor';
 
+try
+{$craftblog = new PDO($dsn ,$username ,$passwd );}
+catch(PDOException $exeption)
+{echo 'Connexion échouée : ' . $exeption->getMessage();}

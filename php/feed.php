@@ -5,8 +5,9 @@ if(isset($craftblog))
 {
     $maxarticles= 6;
     $image = 'http://www.frenchtroll.com/wp-content/uploads/images/lol-2_489.jpg';
+
     //je met dans result respectivement articletitle,article,authorid ensuite avec l'authorid je récup le nom du mec.
-    $result = $craftblog->query("SELECT articletitle,article,authorid FROM article LIMIT $maxarticles")->fetch_all();
+    $result = $craftblog->query("SELECT articletitle,article,authorid FROM article LIMIT $maxarticles")->fetchAll();
 
         echo '<pre>';
         print_r($result);
@@ -14,7 +15,8 @@ if(isset($craftblog))
 
         foreach($result as $currresult)
         {
-            $author = $craftblog->query("SELECT username FROM users WHERE userid='$currresult[2]'")->fetch_assoc();
+            $author = $craftblog->query("SELECT username FROM users WHERE userid='$currresult[authorid]'")->fetchAll();
+            $author = $author[0];
 
             echo"    <div class='article-main' style='margin-top: 20px;'>
                         <div class='media article'>
@@ -22,8 +24,8 @@ if(isset($craftblog))
                                 <img class='media-object' src='$image' alt='photo d un squelette' style='width: 250px;'>
                             </a>
                             <div class='media-body'>
-                                <h4 class='media-heading'>$currresult[0]</h4>
-                                $currresult[1]
+                                <h4 class='media-heading'>$currresult[articletitle]</h4>
+                                $currresult[article]
                             </div>
                             <div class='media-author'>$author[username]</div>
                         </div>
