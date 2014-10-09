@@ -6,9 +6,10 @@
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Fermer</span></button>
                 <h4 class="modal-title" id="myModalLabel">Connectez-Vous</h4>
             </div>
-            <div class="modal-body">
+            <form class="form-horizontal" role="form" action="./php/processing/post.php" method="post">
+                <div class="modal-body">
 
-                <form class="form-horizontal" role="form">
+                    <input type="hidden" name="action" value="connexion"/>
 
                     <div class="form-group">
                         <label for="email" class="col-sm-3 control-label">Pseudo ou email</label>
@@ -24,9 +25,9 @@
                         </div>
                     </div>
 
-                </form>
+                </div>
+            </form>
 
-            </div>
             <div class="modal-footer">
 
                 <div class="col-sm-3">
