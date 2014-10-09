@@ -27,7 +27,7 @@
         }
         elseif($_POST['action'] == 'connexion')
         {
-            if(isset($_POST['username']) && isset($_POST['usermail']) && isset($_POST['userpass']) && isset($_POST['userrepeatpass']))
+            if(isset($_POST['username']) && isset($_POST['usermail']) && isset($_POST['userpass']) && isset($_POST['userrepeatpass'])){}
         }
         elseif($_POST['action'] == 'register')
         {
